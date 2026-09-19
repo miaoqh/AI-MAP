@@ -16,8 +16,11 @@
 
 | 部分| 章节 | 内容 | 📄 讲义 PDF | 📊 PPT | 💻 Jupyter |
 |:---:|:---:|---|:---:|:---:|:---:|
-|        | 第0章| 发展简史、学科基础 | [PDF](docs/ch01/AI-01.pdf) | [PPT](slides/ch01/AI-01.pptx) | [Notebook](notebooks/ch01/) |
-| Part I | 第1章<br>第2章 | 搜索基础 <br> 无信息搜索| [PDF](docs/ch01/AI-01.pdf) <br>[PDF](docs/ch02/AI-02.pdf) | [PPT](slides/ch01/AI-01.pptx) <br>[PPT](slides/ch02/AI-02.pptx)| [Notebook](notebooks/ch01/)<br>[Notebook](notebooks/ch02/) |
+|        | 第1章| 发展简史、学科基础 | [PDF](docs/ch01/AI-01.pdf) | [PPT](slides/ch01/AI-01.pptx) | [Notebook](notebooks/ch01/) |
+| Part I | 第2章<br>第3章 | 搜索基础 <br> 无信息搜索| [PDF](docs/ch01/AI-01.pdf) <br>[PDF](docs/ch02/AI-02.pdf) | [PPT](slides/ch01/AI-01.pptx) <br>[PPT](slides/ch02/AI-02.pptx)| [Notebook](notebooks/ch01/)<br>[Notebook](notebooks/ch02/) |
+| Part II | 第2章<br>第3章 | 搜索基础 <br> 无信息搜索| [PDF](docs/ch01/AI-01.pdf) <br>[PDF](docs/ch02/AI-02.pdf) | [PPT](slides/ch01/AI-01.pptx) <br>[PPT](slides/ch02/AI-02.pptx)| [Notebook](notebooks/ch01/)<br>[Notebook](notebooks/ch02/) |
+| Part III | 第2章<br>第3章 | 搜索基础 <br> 无信息搜索| [PDF](docs/ch01/AI-01.pdf) <br>[PDF](docs/ch02/AI-02.pdf) | [PPT](slides/ch01/AI-01.pptx) <br>[PPT](slides/ch02/AI-02.pptx)| [Notebook](notebooks/ch01/)<br>[Notebook](notebooks/ch02/) |
+| Part IV | 第2章<br>第3章 | 搜索基础 <br> 无信息搜索| [PDF](docs/ch01/AI-01.pdf) <br>[PDF](docs/ch02/AI-02.pdf) | [PPT](slides/ch01/AI-01.pptx) <br>[PPT](slides/ch02/AI-02.pptx)| [Notebook](notebooks/ch01/)<br>[Notebook](notebooks/ch02/) |
 
 
 > 📌 课程内容和实验代码将随着人工智能领域的发展持续更新。
