@@ -13,7 +13,7 @@ An open text-book project for learning Artificial Intelligence.
 
 | 章节 | 内容 | 📄 讲义 PDF | 📊 PPT | 💻 Jupyter |
 |:---:|---|:---:|:---:|:---:|
-| 前言｜ [PDF](docs/前言.pdf)｜
+| 前言｜ ｜[PDF](docs/前言.pdf)｜
 | 第1章 | 人工智能概述 | [PDF](docs/ch01/AI-01.pdf) | [PPT](slides/ch01/AI-01.pptx) | [Notebook](notebooks/ch01/) |
 | 第2章 | 问题求解与搜索 | [PDF](docs/ch02/AI-02.pdf) | [PPT](slides/ch02/AI-02.pptx) | [Notebook](notebooks/ch02/) |
 | 第3章 | 知识表示与推理 | [PDF](docs/ch03/AI-03.pdf) | [PPT](slides/ch03/AI-03.pptx) | [Notebook](notebooks/ch03/) |
