@@ -1,5 +1,5 @@
 # AI-MAP
-**A**rtificial **I**ntelligence - **M**odels, **A**lgorithms and **P**rinciples, .
+**A**rtificial **I**ntelligence - **M**odels, **A**lgorithms and **P**rinciples.
 
 # 人工智能：原理、模型与算法
 
