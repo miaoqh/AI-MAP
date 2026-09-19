@@ -1,9 +1,11 @@
 # AI-MAP
-An open text-book project for learning Artificial Intelligence.
+**A**rtificial **I**ntelligence - **M**odels, **A**lgorithms and **P**rinciples, .
 
 # 人工智能：原理、模型与算法
 
-> 📖 本课程是面向[本科生/研究生]开设的人工智能入门课程，注重**点面结合**——经典模型讲透原理，前沿进展讲清脉络。所有资源开源免费，欢迎Star⭐、Fork🍴、提Issue💬。
+> 📖 人工智能知识体系庞杂，需要一本地图为初学者指引道路。
+>
+> 本课程是面向不同学科背景的读者开设的人工智能入门课程，注重**点面结合**——经典模型讲透原理，前沿进展讲清脉络。所有资源开源免费，欢迎Star⭐、Fork🍴、提Issue💬。
 
 本课程采用开放式建设模式，课程资料将持续更新。欢迎教师、学生、研究人员和开发者参与课程建设，共同完善人工智能开放知识体系。
 
