@@ -18,11 +18,7 @@
 | 章节 | 内容 | 📄 讲义 PDF | 📊 PPT | 💻 Jupyter |
 |:---:|---|:---:|:---:|:---:|
 |  前言 | Preface | [PDF](docs/前言.pdf)| | |
-| 第1章 | 人工智能概述 | [PDF](docs/ch01/AI-01.pdf) | [PPT](slides/ch01/AI-01.pptx) | [Notebook](notebooks/ch01/) |
+| 第1章 | 发展简史、学科基础 | [PDF](docs/ch01/AI-01.pdf) | [PPT](slides/ch01/AI-01.pptx) | [Notebook](notebooks/ch01/) |
 | 第2章 | 问题求解与搜索 | [PDF](docs/ch02/AI-02.pdf) | [PPT](slides/ch02/AI-02.pptx) | [Notebook](notebooks/ch02/) |
-| 第3章 | 知识表示与推理 | [PDF](docs/ch03/AI-03.pdf) | [PPT](slides/ch03/AI-03.pptx) | [Notebook](notebooks/ch03/) |
-| 第4章 | 机器学习基础 | [PDF](docs/ch04/AI-04.pdf) | [PPT](slides/ch04/AI-04.pptx) | [Notebook](notebooks/ch04/) |
-| 第5章 | 神经网络与深度学习 | [PDF](docs/ch05/AI-05.pdf) | [PPT](slides/ch05/AI-05.pptx) | [Notebook](notebooks/ch05/) |
-
 
 > 📌 课程内容和实验代码将随着人工智能领域的发展持续更新。
