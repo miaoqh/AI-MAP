@@ -17,7 +17,7 @@
 | 部分| 章节 | 内容 | 📄 讲义 PDF | 📊 PPT | 💻 Jupyter |
 |:---:|:---:|---|:---:|:---:|:---:|
 |        | 第1章| 发展简史、学科基础 | [PDF](docs/ch01/AI-01.pdf) | [PPT](slides/ch01/AI-01.pptx) | [Notebook](notebooks/ch01/) |
-| Part I | 第2章<br>第3章 | 搜索基础 <br> 无信息搜索| [PDF](docs/ch01/AI-01.pdf) <br>[PDF](docs/ch02/AI-02.pdf) | [PPT](slides/ch01/AI-01.pptx) <br>[PPT](slides/ch02/AI-02.pptx)| [Notebook](notebooks/ch01/)<br>[Notebook](notebooks/ch02/) |
+| Part I | 第2章<br>第3章<br>第4章<br>第5章<br>第6章<br>第7章 | 搜索基础 <br> 无信息搜索<br> 启发式搜索<br> 局部搜索<br> 群体搜索<br> 博弈搜索| [PDF](docs/ch01/AI-01.pdf) <br>[PDF](docs/ch02/AI-02.pdf) | [PPT](slides/ch01/AI-01.pptx) <br>[PPT](slides/ch02/AI-02.pptx)| [Notebook](notebooks/ch01/)<br>[Notebook](notebooks/ch02/) |
 | Part II | 第2章<br>第3章 | 搜索基础 <br> 无信息搜索| [PDF](docs/ch01/AI-01.pdf) <br>[PDF](docs/ch02/AI-02.pdf) | [PPT](slides/ch01/AI-01.pptx) <br>[PPT](slides/ch02/AI-02.pptx)| [Notebook](notebooks/ch01/)<br>[Notebook](notebooks/ch02/) |
 | Part III | 第2章<br>第3章 | 搜索基础 <br> 无信息搜索| [PDF](docs/ch01/AI-01.pdf) <br>[PDF](docs/ch02/AI-02.pdf) | [PPT](slides/ch01/AI-01.pptx) <br>[PPT](slides/ch02/AI-02.pptx)| [Notebook](notebooks/ch01/)<br>[Notebook](notebooks/ch02/) |
 | Part IV | 第2章<br>第3章 | 搜索基础 <br> 无信息搜索| [PDF](docs/ch01/AI-01.pdf) <br>[PDF](docs/ch02/AI-02.pdf) | [PPT](slides/ch01/AI-01.pptx) <br>[PPT](slides/ch02/AI-02.pptx)| [Notebook](notebooks/ch01/)<br>[Notebook](notebooks/ch02/) |
