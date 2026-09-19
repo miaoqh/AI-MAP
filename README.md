@@ -14,10 +14,34 @@
 
 ## 📚 课程内容
 
-| 章节 | 内容 | 📄 讲义 PDF | 📊 PPT | 💻 Jupyter |
-|:---:|---|:---:|:---:|:---:|
-|  前言 | Preface | [PDF](docs/前言.pdf)| | |
+| 部分| 章节 | 内容 | 📄 讲义 PDF | 📊 PPT | 💻 Jupyter |
+|:---:|:---:|---|:---:|:---:|:---:|
 | 第1章 | 发展简史、学科基础 | [PDF](docs/ch01/AI-01.pdf) | [PPT](slides/ch01/AI-01.pptx) | [Notebook](notebooks/ch01/) |
 | 第2章 | 问题求解与搜索 | [PDF](docs/ch02/AI-02.pdf) | [PPT](slides/ch02/AI-02.pptx) | [Notebook](notebooks/ch02/) |
 
 > 📌 课程内容和实验代码将随着人工智能领域的发展持续更新。
+
+## 第1章 · 人工智能概述
+
+介绍人工智能的基本概念、发展历史、主要研究范式以及人工智能的工程应用。
+
+- [📄 下载 PDF 讲义](docs/ch01/AI-01.pdf)
+- [📊 下载 PPT](slides/ch01/AI-01.pptx)
+- [💻 Jupyter 练习](notebooks/ch01/)
+
+### 主要内容
+
+- 什么是人工智能？
+- 人工智能的发展历程
+- 图灵测试
+- McCulloch-Pitts 神经元
+- Cybernetics
+- 搜索、学习与推理
+- 符号主义、连接主义与行为主义
+- 机器学习
+- 深度学习
+- 生成式人工智能
+- 大语言模型
+- AI Agent
+
+---
