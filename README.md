@@ -1,6 +1,7 @@
 # 人工智能：原理、模型与算法
 ## AI-MAP：**A**rtificial **I**ntelligence - **M**odels, **A**lgorithms and **P**rinciples.
 > 学习人工智能如同一段旅程，你需要一本路书。
+> 
 > 这本路书告诉人们哪里有美景、哪里有荆棘。
 > 这本路书不应是一个人的经历，而是志同道合者共同的标记。
 
